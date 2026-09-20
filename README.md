@@ -44,7 +44,13 @@ La informacion puede prepararse para su consulta y exportacion, y la base de dat
 
 Las siguientes capturas muestran el flujo general y la interfaz de la aplicacion:
 
-> Las imagenes se incorporaran en esta seccion como material visual del portfolio.
+![Pantalla principal](assets/1111.png)
+
+![Registro de jornada](assets/2222.png)
+
+![Panel administrativo](assets/33333.png)
+
+![Vista de gestion](assets/Sin%20t%C3%ADtulo.png)
 
 ## Enfoque del proyecto
 
